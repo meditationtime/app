@@ -1,9 +1,10 @@
 # app
 
-Draft document 
+Draft document.
+See [general outlines](https://github.com/meditationtime/outlines) for background information.
 
 ## Notifications
-- Custom notification flows based on event time 
+- Custom notification flows based on event time, meditation taxonomy and confirmed participants 
 - Timer functionality 
 
 ## Meditations
@@ -17,8 +18,8 @@ Draft document
 
 ## Platforms
 - Native mobile
-- Linux, Mac, PC.
-- Website
-- Social Media apps
+- Linux, Mac, PC desktop app
+- Web app
+- Social media app
 
 
